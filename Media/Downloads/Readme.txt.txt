@@ -1,0 +1,1 @@
+This is the Content downloaded for Configuration Manager Current Branch during the install process.   When you choose to download and save to an alternate location, you can copy the contents to this folder

@@ -1,0 +1,1 @@
+This folder contains the installation media for System Center Configuration Manager Current Branch.  If you are copying from a CD.Latest or the ISO you must copy the entire structure here.   Afterwards you update the license key property in the script with your current SCCM product key.

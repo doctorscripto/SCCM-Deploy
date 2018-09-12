@@ -1,0 +1,2 @@
+This is an older version of Brian Wilhite's pending reboot script.   You can download it from here on the Technet Script Repository.
+https://gallery.technet.microsoft.com/scriptcenter/Get-PendingReboot-Query-bdb79542

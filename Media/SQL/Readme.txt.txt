@@ -1,0 +1,1 @@
+This is the installation media for SQL Server 2014.   The deployment script has been tested with this version but it should work for later releases with very little change.   Place the entire ISO folder structure for SCCM here and the installation script will launch it
