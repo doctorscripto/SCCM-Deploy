@@ -21,3 +21,5 @@ Site Description of a minimum of 10 characters
 Credentials to be assigned to the SQL Server Service account (This account must already exist in Active Directory)
 
 This script is meant to be a tool to assist installs *or* to spin up a Configuration Manager lab environment.  In a Lab scenario it should be possible to place this on a Domain Controller.  In a Production scenario this is *not* a Recommended configuration.
+
+This has only been tested on Server 2016 with a Server 2016 DC and is not intended as a Production solution.  It is intended to give you all the automation pieces in PowerShell to allow you to automate what you NEED out of an SCCM install.
